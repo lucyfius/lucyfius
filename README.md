@@ -48,8 +48,9 @@ Hi there! I'm **Lili**, a software engineer, professional league inter (i'll run
 
 ## 🌈 Latest Projects
 
-Selyne! - Coming soon ;)
-[**Reiko**] (https://github.com/lucyfius/Reiko) 
+- Selyne! - Coming soon ;)
+- [**Reiko**](https://github.com/lucyfius/Reiko)
+
 ---
 
 > *"It's just so sweet, I know you do it for me; And everybody else surrounds you, but you never leave, I know you wait for me~"* ✨
