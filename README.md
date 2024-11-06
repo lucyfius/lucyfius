@@ -52,7 +52,7 @@ Selyne! - Coming soon ;)
 
 ---
 
-> *"It's just so sweet, I know you do it for me~"* ✨
-> *"And everybody else surrounds you, but you never leave, I know you wait for me~"* ✨
+> *"It's just so sweet, I know you do it for me; And everybody else surrounds you, but you never leave, I know you wait for me~"* ✨
+
 
 Thanks for visiting me!! ✨🌸
