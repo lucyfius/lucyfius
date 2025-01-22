@@ -49,15 +49,14 @@ A Discord bot built for server management with advanced administrative tools and
 ### 🎁 **Giftive** *(Coming Soon!)*
 A mobile app to help users find thoughtful gifts for their loved ones. Tracks interests and suggests gift ideas based on what they like, with reminders for anniversaries and tips on making those moments extra special.
 
-### 🧺 **LaundryBuddy**
-An app for anyone who needs guidance on laundry care—from college students to busy parents! Discover the best wash settings for different items, recommended detergents, and useful community tips for all your laundry needs.
+### 🔍 **Selyne**
+An OSINT tool designed for local governments, law enforcement agencies, and recruiters to gather all information in a centralized place. 
 
-### ✨ **Selyne** *(Coming Soon!)*
-A new project in the works... stay tuned for more details!
+### 🏠 **TourSync**
+A desktop application for streamlining property tours and applications. Features include simplified scheduling, automated reporting, API integrations, and delightful Easter eggs to make workflows fun and efficient.
 
 ---
 
 > *"It's just so sweet, I know you do it for me; And everybody else surrounds you, but you never leave, I know you wait for me~"* ✨
 
 Thanks for visiting me!! ✨🌸
-
