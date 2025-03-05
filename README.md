@@ -21,7 +21,7 @@ Hi there! I'm **Lili**, a software engineer, professional league inter (i'll run
 
 ## 🎀 Let's Connect!
 
-- 💌 **Email**: [me@lota.dev](mailto:me@lota.dev)
+- 💌 **Email**: [lili@lota.dev](mailto:lili@lota.dev)
 - 🌐 [**Lota.dev**](https://www.lota.dev) — This is still a WIP but please check it out!
 
 ---
