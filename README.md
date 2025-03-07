@@ -1,6 +1,6 @@
-# 🌸 Hello, World! I'm Lili 🌸
+# 🌸 Hello, World! I'm Lili :3 🌸
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&color=%23FFB6C1&size=30&center=true&vCenter=true&width=500&lines=Welcome+to+my+profile!;Add+me+on+Discord:+Lucyfius;Nice+to+meet+you!!+💖)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&color=%23FFB6C1&size=30&center=true&vCenter=true&width=500&lines=Welcome+to+my+profile!;Add+me+on+Discord:+Lucyfius;Nice+to+meet+you!!+💖)](https://discord.com/users/1342543661241602161)
 
 ## 🌼 About Me
 
